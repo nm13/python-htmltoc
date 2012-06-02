@@ -1,0 +1,4 @@
+
+ -- Optionally set the title from the slug attribute ('<toc name="Contents"/>') ;
+ -- wrap the TOC with stuff like '<div class="toc"><span class="toctitle">Contents</span> ... </div>'
+ 

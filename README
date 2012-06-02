@@ -1,0 +1,4 @@
+Add a Table Of Contents ("TOC") to an HTML document at the place specified by a given marker ( say, "[TOC]" or "<toc/>" ) . 
+
+Being a rather thin wrapper around the BeautifulSoup module, depends on it ( on version 3, but version would be probably fine as well ) .  
+
